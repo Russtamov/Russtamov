@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Osman</h1>
 <h3 align="center">I'm Flutter Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Flutter,Python**
+- 🌱 I’m proficient in **.NET, Flutter, and Python**
 
 - 💬 Ask me about **Flutter**
 
